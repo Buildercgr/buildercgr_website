@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Py Pong on Buildercgr</title>
+    <link>https://buildercgr.github.io/buildercgr_website/projects/py-pong/</link>
+    <description>Recent content in Py Pong on Buildercgr</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://buildercgr.github.io/buildercgr_website/projects/py-pong/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

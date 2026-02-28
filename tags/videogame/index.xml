@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videogame on Buildercgr</title>
+    <link>https://buildercgr.github.io/buildercgr_website/tags/videogame/</link>
+    <description>Recent content in Videogame on Buildercgr</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://buildercgr.github.io/buildercgr_website/tags/videogame/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Py Pong</title>
+      <link>https://buildercgr.github.io/buildercgr_website/projects/py-pong/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://buildercgr.github.io/buildercgr_website/projects/py-pong/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Restored-py-pong&lt;/strong&gt; is a minimalist revival of the classic Pong arcade game, built entirely in Python using &lt;a href=&#34;https://www.pygame.org/&#34;&gt;Pygame&lt;/a&gt;. It preserves the original spirit of the game while adapting it for modern systems, with smooth performance, clean visuals, and cross-platform compatibility.&lt;/p&gt;&#xA;&lt;p&gt;Whether you&amp;rsquo;re nostalgic for the golden age of gaming or just want a quick match, this version delivers timeless fun in a lightweight package.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Single-player mode with AI opponent&lt;/li&gt;&#xA;&lt;li&gt;Retro-inspired visuals&lt;/li&gt;&#xA;&lt;li&gt;Cross-platform: Windows, macOS, Linux&lt;/li&gt;&#xA;&lt;li&gt;And more will come in future&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Platform&lt;/th&gt;&#xA;          &lt;th&gt;Format&lt;/th&gt;&#xA;          &lt;th&gt;Download&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Windows&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;.exe&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/Buildercgr/Restored-py-pong/releases/download/main/py_pong.exe&#34;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;macOS&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;universal.py&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/Buildercgr/Restored-py-pong/releases/download/main/py_pong.py&#34;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Linux&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;universal.py&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/Buildercgr/Restored-py-pong/releases/download/main/py_pong.py&#34;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;No Python installation required. Just download and play.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

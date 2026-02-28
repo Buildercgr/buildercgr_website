@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
+<link rel="icon" href="/buildercgr_website/favicon.ico" type="image/gif">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+>
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      media="print" onload="this.media='all'" />
+<noscript>
+  <link
+          href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+          rel="stylesheet">
+</noscript>
+
+
+<link rel="stylesheet" href="/buildercgr_website/css/font.css" media="all">
+
+
+
+<meta property="og:url" content="https://buildercgr.github.io/buildercgr_website/projects/digitech/">
+  <meta property="og:site_name" content="Buildercgr">
+  <meta property="og:title" content="Digitech Mod">
+  <meta property="og:description" content="A fully functional operating system inside Minecraft.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="projects">
+    <meta property="article:published_time" content="2026-02-16T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-02-16T00:00:00+00:00">
+    <meta property="article:tag" content="Minecraft">
+    <meta property="article:tag" content="Modding">
+    <meta property="article:tag" content="Technology">
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Digitech Mod">
+  <meta name="twitter:description" content="A fully functional operating system inside Minecraft.">
+
+
+
+
+
+<link rel="stylesheet" href="/buildercgr_website/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/buildercgr_website/css/header.css" media="all">
+<link rel="stylesheet" href="/buildercgr_website/css/language-switcher.css" media="all">
+<link rel="stylesheet" href="/buildercgr_website/css/footer.css" media="all">
+
+
+<link rel="stylesheet" href="/buildercgr_website/css/theme.css" media="all">
+
+<style>
+    :root {
+        --text-color: #222222;
+        --text-secondary-color: #555555;
+        --text-link-color: #000000;
+        --background-color: #FFFFFF;
+        --secondary-background-color: #FFF3E0;
+        --primary-color: #FF8C00;
+        --secondary-color: #FFA726;
+
+         
+        --text-color-dark: #f5f5f5;
+        --text-secondary-color-dark: #cccccc;
+        --text-link-color-dark: #FFFFFF;
+        --background-color-dark: #000000;
+        --secondary-background-color-dark: #1a1a1a;
+        --primary-color-dark: #FFD54F;
+        --secondary-color-dark: #FFB300;
+    }
+    body {
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        text-align: left;
+    }
+
+    html {
+        background-color: var(--background-color) !important;
+    }
+
+    body::-webkit-scrollbar {
+        height: 0px;
+        width: 8px;
+        background-color: var(--background-color);
+    }
+
+    ::-webkit-scrollbar-track {
+        border-radius: 1rem;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        border-radius: 1rem;
+        background: #b0b0b0;
+        outline: 1px solid var(--background-color);
+    }
+
+    #search-content::-webkit-scrollbar {
+        width: .5em;
+        height: .1em;
+        background-color: var(--background-color);
+    }
+</style>
+
+
+
+<meta name="description" content="A fully functional operating system inside Minecraft.">
+<link rel="stylesheet" href="/buildercgr_website/css/single.css">
+
+
+<script defer src="/buildercgr_website/fontawesome-6/all-6.4.2.js"></script>
+
+
+  
+  
+    <link rel="stylesheet" href="/buildercgr_website/style.css">
+  
+
+  <title>
+Digitech Mod | Buildercgr
+
+  </title>
+</head>
+
+<body class="light">
+  
+  
+<script>
+    let localStorageValue = localStorage.getItem("pref-theme");
+    let mediaQuery = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+    switch (localStorageValue) {
+        case "dark":
+            document.documentElement.classList.add('dark');
+            document.body.classList.add('dark');
+            break;
+        case "light":
+            document.body.classList.remove('dark');
+            document.documentElement.classList.remove('dark');
+            break;
+        default:
+            if (mediaQuery) {
+                document.documentElement.classList.add('dark');
+                document.body.classList.add('dark');
+            }
+            break;
+    }
+</script>
+
+
+
+
+<script>
+    var prevScrollPos = window.pageYOffset;
+    window.addEventListener("scroll", function showHeaderOnScroll() {
+        let profileHeaderElem = document.getElementById("profileHeader");
+        let currentScrollPos = window.pageYOffset;
+        let resetHeaderStyle = false;
+        let showNavBarOnScrollUp =  true ;
+        let showNavBar = showNavBarOnScrollUp ? prevScrollPos > currentScrollPos : currentScrollPos > 0;
+        if (showNavBar) {
+            profileHeaderElem.classList.add("showHeaderOnTop");
+        } else {
+            resetHeaderStyle = true;
+        }
+        if(currentScrollPos === 0) {
+            resetHeaderStyle = true;
+        }
+        if(resetHeaderStyle) {
+            profileHeaderElem.classList.remove("showHeaderOnTop");
+        }
+        prevScrollPos = currentScrollPos;
+    });
+</script>
+
+
+
+<header id="profileHeader">
+    <nav class="pt-3 navbar navbar-expand-lg animate">
+        <div class="container-fluid mx-xs-2 mx-sm-5 mx-md-5 mx-lg-5">
+            
+            <a class="navbar-brand primary-font text-wrap" href="/buildercgr_website/">
+                
+                <img src="/favicon.ico" width="30" height="30"
+                    class="d-inline-block align-top">
+                Buildercgr
+                
+            </a>
+
+            
+                <div>
+                    <input id="search" autocomplete="off" class="form-control mr-sm-2 d-none d-md-block" placeholder='Search...'
+                        aria-label="Search" oninput="searchOnChange(event)">
+                </div>
+            
+
+            
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
+                aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true">
+                    <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+                </svg>
+            </button>
+
+            
+            <div class="collapse navbar-collapse text-wrap primary-font" id="navbarContent">
+                <ul class="navbar-nav ms-auto text-center">
+                    
+                        <li class="nav-item navbar-text d-block d-md-none">
+                            <div class="nav-link">
+                                <input id="search" autocomplete="off" class="form-control mr-sm-2" placeholder='Search...' aria-label="Search" oninput="searchOnChange(event)">
+                            </div>
+                        </li>
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/buildercgr_website/#achievements"
+                            aria-label="achievements">
+                            My Buildings
+                        </a>
+                    </li>
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/buildercgr_website/#contact"
+                            aria-label="contact">
+                            Contact
+                        </a>
+                    </li>
+                    
+
+                    
+
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/buildercgr_website/projects" title="My Projects">
+                            
+                            Projects
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/buildercgr_website/gallery" title="Image gallery">
+                            
+                            Gallery
+                        </a>
+                    </li>
+                    
+                    
+
+                    <li class="nav-item navbar-text">
+                        
+                        <div class="text-center">
+                            <button id="theme-toggle" type="button" aria-label="Toggle dark mode">
+                                <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                                </svg>
+                                <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="5"></circle>
+                                    <line x1="12" y1="1" x2="12" y2="3"></line>
+                                    <line x1="12" y1="21" x2="12" y2="23"></line>
+                                    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                                    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                                    <line x1="1" y1="12" x2="3" y2="12"></line>
+                                    <line x1="21" y1="12" x2="23" y2="12"></line>
+                                    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                                    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                                </svg>
+                            </button>
+                        </div>
+                    </li>
+                    
+
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+</header>
+<div id="content">
+<section id="single">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-sm-12 col-md-12 col-lg-9">
+        <div class="pr-lg-4">
+          <div class="title mb-5">
+            <h1 class="text-center mb-4">Digitech Mod</h1>
+            <div class="text-center">
+              
+                Buildercgr
+                <small>|</small>
+              
+              Feb 16, 2026
+
+              
+              <span id="readingTime">
+                min read
+              </span>
+              
+            </div>
+          </div>
+          
+          <div class="featured-image">
+            <img class="img-fluid mx-auto d-block" src="/images/digitech.png" alt="Digitech Mod">
+          </div>
+          
+          <article class="page-content  p-2">
+          <p><strong>We&rsquo;ve paused the Digitech project because we&rsquo;re converting it to Java code. Thank you very much for trying Digitech, but we&rsquo;ll be working on re-coding Digitech for a while to keep it more stable, funnier and with more features.</strong></p>
+<p>Mcreator page: <a href="https://mcreator.net/modification/110176/mobilecraft">https://mcreator.net/modification/110176/mobilecraft</a></p>
+<p>Curseforge page: <a href="https://www.curseforge.com/minecraft/mc-mods/digitech">https://www.curseforge.com/minecraft/mc-mods/digitech</a></p>
+<p>Do you want mobile phones and computers in Minecraft?</p>
+<p>With Digitech, now you can enjoy both!</p>
+<p>This mod is still in beta, and there’s much more to come. But first, let’s take a look at the essential features:</p>
+<h1></h1>
+<p>Main elements:</p>
+<p>Digitech adds mobile phones and PCs with lots of useful functions.</p>
+<p>You can use menus, open apps, customize your device, and more.</p>
+<p>I hope you enjoy it a lot — and don’t confuse this mod with others, this one’s unique!</p>
+<p>Available for:</p>
+<p>Forge 1.20.1</p>
+<p>NeoForge 1.21.1 / 1.21.4</p>
+<h1></h1>
+<p>Mobile and PC features</p>
+<p>The Menu</p>
+<p>When you right-click your device, the main menu appears.</p>
+<p>You can choose different apps here — and I’m planning to add even more soon!
+<img src="https://cdn.modrinth.com/data/fLA2DuAG/images/f9431528a6b9cd7261c266be1b28a385559ff307.png" alt="Menu"></p>
+<h1></h1>
+<p>The Functions:</p>
+<p>Settings:</p>
+<p>Right now, you can change your gamemode from here. More options are coming!</p>
+<p>First Aid:</p>
+<p>This feature can save your Minecraft life.</p>
+<p>When you’re in danger, tap it — you’ll get an ender pearl and a totem of undying to escape quickly.</p>
+<p>Wiki:</p>
+<p>My favorite feature!</p>
+<p>This adds a built-in wiki, available in English and Spanish (my language).</p>
+<p>I’m also planning to release a separate mod to add more languages soon.</p>
+<p>Shop:</p>
+<p>A portable shop where you can buy items.</p>
+<p>If you like mods that improve the Minecraft economy, this is also for you.</p>
+<p>Ender Chest:</p>
+<p>A secure place to store your valuable items — like a portable backpack!
+<img src="https://cdn.modrinth.com/data/fLA2DuAG/images/f25cb60adb7e0a5cc6a615a3a3e8ab51163d467c.webp" alt="Enderchest"></p>
+<h1></h1>
+<p>Customization</p>
+<p>You can customize your phones with cases and wallpapers.</p>
+<p>Crafting and materials:</p>
+<p>Wifi:
+<img src="https://cdn.modrinth.com/data/cached_images/94bd4e7df604056f60b8e207ca56c070d2836985.png" alt="Wifi Recipe"></p>
+<p>PC:
+<img src="https://cdn.modrinth.com/data/cached_images/b6ba467c71a832694be343a3ce33b891d28c2583.png" alt="PC recipe"></p>
+<p>Phone:
+<img src="https://cdn.modrinth.com/data/cached_images/ff966e24448b63b3942459b8bc8664dea0916ef5.png" alt="Phone recipe"></p>
+<p>Also, don’t forget to craft the Wi-Fi block — without it, your devices won’t work!</p>
+<p><img src="https://cdn.modrinth.com/data/fLA2DuAG/images/be4a3c018bb1c57443f4aa5fcb300c004c7b15fe.png" alt="A Wallpaper"></p>
+<h1></h1>
+<p>Tutorial Mode</p>
+<p>If you don’t understand something, there’s a Tutorial Mode just for you!
+<img src="https://cdn.modrinth.com/data/fLA2DuAG/images/0c6ba2b0b247a227564d75bca79fec443ac0a668.png" alt="Tutorial"></p>
+<h1></h1>
+<p>Thanks for checking out my mod!</p>
+<p>Created by BuilderCGR.</p>
+<p>Enjoy Digitech, and stay tuned for updates.</p>
+
+          </article>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-12 col-lg-3">
+        <div id="stickySideBar" class="sticky-sidebar">
+          
+          <aside class="toc">
+              <h5>
+                Table Of Contents
+              </h5>
+              <div class="toc-content">
+                <nav id="TableOfContents"></nav>
+              </div>
+          </aside>
+          
+
+          
+          <aside class="tags">
+            <h5>Tags</h5>
+            <ul class="tags-ul list-unstyled list-inline">
+              
+              
+              <li class="list-inline-item"><a href="/buildercgr_website/tags/minecraft"
+                target="_blank"
+              >Minecraft</a></li>
+              
+              
+              <li class="list-inline-item"><a href="/buildercgr_website/tags/modding"
+                target="_blank"
+              >Modding</a></li>
+              
+              
+              <li class="list-inline-item"><a href="/buildercgr_website/tags/technology"
+                target="_blank"
+              >Technology</a></li>
+              
+            </ul>
+          </aside>
+          
+
+          
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-md-12 col-lg-9 p-4">
+        
+      </div>
+    </div>
+  </div>
+  <button class="p-2 px-3" onclick="topFunction()" id="topScroll">
+    <i class="fas fa-angle-up"></i>
+  </button>
+</section>
+
+
+<div class="progress">
+  <div id="scroll-progress-bar" class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+<Script src="/buildercgr_website/js/scrollProgressBar.js"></script>
+
+
+<script>
+  var topScroll = document.getElementById("topScroll");
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      topScroll.style.display = "block";
+    } else {
+      topScroll.style.display = "none";
+    }
+  }
+
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+
+  
+  let stickySideBarElem = document.getElementById("stickySideBar");
+  let stickyNavBar =  true ;
+  if(stickyNavBar) {
+    let headerElem = document.getElementById("profileHeader");
+    let headerHeight = headerElem.offsetHeight + 15;
+    stickySideBarElem.style.top = headerHeight + "px";
+  } else {
+    stickySideBarElem.style.top = "50px";
+  }
+</script>
+
+
+<script src="/buildercgr_website/js/readingTime.js"></script>
+
+
+
+  </div><footer>
+    
+
+
+ 
+
+<div class="text-center pt-2">
+    
+
+    
+
+    
+
+    
+
+    
+</div><div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-4 text-center">
+            
+                <div class="pb-2">
+                    <a href="https://buildercgr.github.io/buildercgr_website/" title="Buildercgr">
+                        <img alt="Footer logo" src="/favicon.ico"
+                            height="40px" width="40px">
+                    </a>
+                </div>
+            
+            &copy; 2026  All rights reserved
+            <div class="text-secondary">
+                Made with
+                <span class="text-danger">
+                    &#10084;
+                </span>
+                and
+                <a href="https://github.com/gurusabarish/hugo-profile" target="_blank"
+                    title="Designed and developed by gurusabarish">
+                    Hugo Profile
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</footer><script src="/buildercgr_website/bootstrap-5/js/bootstrap.bundle.min.js"></script>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.documentElement.classList.add('dark');
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+        document.documentElement.classList.remove('dark');
+    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.classList.add('dark');
+        document.body.classList.add('dark');
+    }
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            document.documentElement.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            document.documentElement.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
+
+</script>
+
+
+    <script>
+      
+      window.searchIndexURL = "/buildercgr_website/index.json";
+    </script>
+    <script src="/buildercgr_website/js/search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+  <section id="search-content" class="py-2">
+    <div class="container" id="search-results"></div>
+  </section>
+</body>
+
+</html>

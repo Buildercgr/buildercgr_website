@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Buildercgr</title>
+    <link>https://buildercgr.github.io/buildercgr_website/projects/</link>
+    <description>Recent content in Projects on Buildercgr</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://buildercgr.github.io/buildercgr_website/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digitech Mod</title>
+      <link>https://buildercgr.github.io/buildercgr_website/projects/digitech/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://buildercgr.github.io/buildercgr_website/projects/digitech/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;We&amp;rsquo;ve paused the Digitech project because we&amp;rsquo;re converting it to Java code. Thank you very much for trying Digitech, but we&amp;rsquo;ll be working on re-coding Digitech for a while to keep it more stable, funnier and with more features.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mcreator page: &lt;a href=&#34;https://mcreator.net/modification/110176/mobilecraft&#34;&gt;https://mcreator.net/modification/110176/mobilecraft&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Curseforge page: &lt;a href=&#34;https://www.curseforge.com/minecraft/mc-mods/digitech&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/digitech&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Do you want mobile phones and computers in Minecraft?&lt;/p&gt;&#xA;&lt;p&gt;With Digitech, now you can enjoy both!&lt;/p&gt;&#xA;&lt;p&gt;This mod is still in beta, and there’s much more to come. But first, let’s take a look at the essential features:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>McCalcTools</title>
+      <link>https://buildercgr.github.io/buildercgr_website/projects/mccalctools/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://buildercgr.github.io/buildercgr_website/projects/mccalctools/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;McCalcTools&lt;/strong&gt; is just what you need to help with your Minecraft calculations and those model builds you&amp;rsquo;ve been thinking about. It lets you convert blocks to meters, calculate which chunk each item falls into, how many stacks you need, areas, volumes, and even simulated circumferences. It&amp;rsquo;s a pleasure to plan and design constructions, both in-game and in the real world!&lt;/p&gt;&#xA;&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;you-need-a-gradle-project-to-import-this-module&#34;&gt;You need a gradle project to import this module.&lt;/h3&gt;&#xA;&lt;p&gt;To install this package only copy and paste the .jar in your project and import it in your IDE and in your gradle project as a .jar library.&#xA;You will need to copy the jar and paste in libs folder and put this content on the build.gradle (in java) or build.gradle.kts (in kotlin)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ModInstaller</title>
+      <link>https://buildercgr.github.io/buildercgr_website/projects/modinstaller/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://buildercgr.github.io/buildercgr_website/projects/modinstaller/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;ModInstaller&lt;/strong&gt;! This guide will help you understand how to use the tool to install Minecraft mods easily across platforms.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;p&gt;To begin, run the &lt;code&gt;modInstaller&lt;/code&gt; file included in this folder. Depending on your operating system, the file may have one of the following formats:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;.exe&lt;/code&gt; for &lt;strong&gt;Windows&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;.app&lt;/code&gt; for &lt;strong&gt;macOS&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;.appImage&lt;/code&gt; for &lt;strong&gt;Linux&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Once launched, the ModInstaller window will appear with several options. One of the key fields is the &lt;strong&gt;Minecraft mods folder&lt;/strong&gt;, which is where all selected mods will be installed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Py Pong</title>
+      <link>https://buildercgr.github.io/buildercgr_website/projects/py-pong/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://buildercgr.github.io/buildercgr_website/projects/py-pong/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Restored-py-pong&lt;/strong&gt; is a minimalist revival of the classic Pong arcade game, built entirely in Python using &lt;a href=&#34;https://www.pygame.org/&#34;&gt;Pygame&lt;/a&gt;. It preserves the original spirit of the game while adapting it for modern systems, with smooth performance, clean visuals, and cross-platform compatibility.&lt;/p&gt;&#xA;&lt;p&gt;Whether you&amp;rsquo;re nostalgic for the golden age of gaming or just want a quick match, this version delivers timeless fun in a lightweight package.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Single-player mode with AI opponent&lt;/li&gt;&#xA;&lt;li&gt;Retro-inspired visuals&lt;/li&gt;&#xA;&lt;li&gt;Cross-platform: Windows, macOS, Linux&lt;/li&gt;&#xA;&lt;li&gt;And more will come in future&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;downloads&#34;&gt;Downloads&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Platform&lt;/th&gt;&#xA;          &lt;th&gt;Format&lt;/th&gt;&#xA;          &lt;th&gt;Download&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Windows&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;.exe&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/Buildercgr/Restored-py-pong/releases/download/main/py_pong.exe&#34;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;macOS&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;universal.py&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/Buildercgr/Restored-py-pong/releases/download/main/py_pong.py&#34;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Linux&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;universal.py&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/Buildercgr/Restored-py-pong/releases/download/main/py_pong.py&#34;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;No Python installation required. Just download and play.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
