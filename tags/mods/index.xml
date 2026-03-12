@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mods on Buildercgr</title>
-    <link>http://localhost:1313/buildercgr_website/tags/mods/</link>
+    <link>https://buildercgr.github.io/buildercgr_website/tags/mods/</link>
     <description>Recent content in Mods on Buildercgr</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/buildercgr_website/tags/mods/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://buildercgr.github.io/buildercgr_website/tags/mods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ModInstaller</title>
-      <link>http://localhost:1313/buildercgr_website/projects/modinstaller/</link>
+      <link>https://buildercgr.github.io/buildercgr_website/projects/modinstaller/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/buildercgr_website/projects/modinstaller/</guid>
+      <guid>https://buildercgr.github.io/buildercgr_website/projects/modinstaller/</guid>
       <description>&lt;p&gt;Welcome to &lt;strong&gt;ModInstaller&lt;/strong&gt;! This guide will help you understand how to use the tool to install Minecraft mods easily across platforms.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;&#xA;&lt;p&gt;To begin, run the &lt;code&gt;modInstaller&lt;/code&gt; file included in this folder. Depending on your operating system, the file may have one of the following formats:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;.exe&lt;/code&gt; for &lt;strong&gt;Windows&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;.app&lt;/code&gt; for &lt;strong&gt;macOS&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;.appImage&lt;/code&gt; for &lt;strong&gt;Linux&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Once launched, the ModInstaller window will appear with several options. One of the key fields is the &lt;strong&gt;Minecraft mods folder&lt;/strong&gt;, which is where all selected mods will be installed.&lt;/p&gt;</description>
     </item>
   </channel>
