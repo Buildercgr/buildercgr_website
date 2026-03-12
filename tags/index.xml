@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Buildercgr</title>
-    <link>https://buildercgr.github.io/buildercgr_website/tags/</link>
+    <link>http://localhost:1313/buildercgr_website/tags/</link>
     <description>Recent content in Tags on Buildercgr</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://buildercgr.github.io/buildercgr_website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/buildercgr_website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java/Kotlin</title>
-      <link>https://buildercgr.github.io/buildercgr_website/tags/java/kotlin/</link>
+      <link>http://localhost:1313/buildercgr_website/tags/java/kotlin/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://buildercgr.github.io/buildercgr_website/tags/java/kotlin/</guid>
+      <guid>http://localhost:1313/buildercgr_website/tags/java/kotlin/</guid>
       <description></description>
     </item>
     <item>
       <title>Lib</title>
-      <link>https://buildercgr.github.io/buildercgr_website/tags/lib/</link>
+      <link>http://localhost:1313/buildercgr_website/tags/lib/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://buildercgr.github.io/buildercgr_website/tags/lib/</guid>
+      <guid>http://localhost:1313/buildercgr_website/tags/lib/</guid>
       <description></description>
     </item>
     <item>
       <title>Minecraft</title>
-      <link>https://buildercgr.github.io/buildercgr_website/tags/minecraft/</link>
+      <link>http://localhost:1313/buildercgr_website/tags/minecraft/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://buildercgr.github.io/buildercgr_website/tags/minecraft/</guid>
+      <guid>http://localhost:1313/buildercgr_website/tags/minecraft/</guid>
       <description></description>
     </item>
     <item>
       <title>Modding</title>
-      <link>https://buildercgr.github.io/buildercgr_website/tags/modding/</link>
+      <link>http://localhost:1313/buildercgr_website/tags/modding/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://buildercgr.github.io/buildercgr_website/tags/modding/</guid>
+      <guid>http://localhost:1313/buildercgr_website/tags/modding/</guid>
       <description></description>
     </item>
     <item>
       <title>Mods</title>
-      <link>https://buildercgr.github.io/buildercgr_website/tags/mods/</link>
+      <link>http://localhost:1313/buildercgr_website/tags/mods/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://buildercgr.github.io/buildercgr_website/tags/mods/</guid>
+      <guid>http://localhost:1313/buildercgr_website/tags/mods/</guid>
       <description></description>
     </item>
     <item>
       <title>Ping Pong</title>
-      <link>https://buildercgr.github.io/buildercgr_website/tags/ping-pong/</link>
+      <link>http://localhost:1313/buildercgr_website/tags/ping-pong/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://buildercgr.github.io/buildercgr_website/tags/ping-pong/</guid>
+      <guid>http://localhost:1313/buildercgr_website/tags/ping-pong/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://buildercgr.github.io/buildercgr_website/tags/python/</link>
+      <link>http://localhost:1313/buildercgr_website/tags/python/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://buildercgr.github.io/buildercgr_website/tags/python/</guid>
+      <guid>http://localhost:1313/buildercgr_website/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://buildercgr.github.io/buildercgr_website/tags/technology/</link>
+      <link>http://localhost:1313/buildercgr_website/tags/technology/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://buildercgr.github.io/buildercgr_website/tags/technology/</guid>
+      <guid>http://localhost:1313/buildercgr_website/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Videogame</title>
-      <link>https://buildercgr.github.io/buildercgr_website/tags/videogame/</link>
+      <link>http://localhost:1313/buildercgr_website/tags/videogame/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://buildercgr.github.io/buildercgr_website/tags/videogame/</guid>
+      <guid>http://localhost:1313/buildercgr_website/tags/videogame/</guid>
       <description></description>
     </item>
   </channel>

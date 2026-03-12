@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://buildercgr.github.io/buildercgr_website/</loc>
+    <loc>http://localhost:1313/buildercgr_website/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/projects/digitech/</loc>
+    <loc>http://localhost:1313/buildercgr_website/projects/digitech/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/tags/java/kotlin/</loc>
+    <loc>http://localhost:1313/buildercgr_website/tags/java/kotlin/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/tags/lib/</loc>
+    <loc>http://localhost:1313/buildercgr_website/tags/lib/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/projects/mccalctools/</loc>
+    <loc>http://localhost:1313/buildercgr_website/projects/mccalctools/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/tags/minecraft/</loc>
+    <loc>http://localhost:1313/buildercgr_website/tags/minecraft/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/tags/modding/</loc>
+    <loc>http://localhost:1313/buildercgr_website/tags/modding/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/projects/modinstaller/</loc>
+    <loc>http://localhost:1313/buildercgr_website/projects/modinstaller/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/tags/mods/</loc>
+    <loc>http://localhost:1313/buildercgr_website/tags/mods/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/tags/ping-pong/</loc>
+    <loc>http://localhost:1313/buildercgr_website/tags/ping-pong/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/projects/</loc>
+    <loc>http://localhost:1313/buildercgr_website/projects/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/projects/py-pong/</loc>
+    <loc>http://localhost:1313/buildercgr_website/projects/py-pong/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/tags/python/</loc>
+    <loc>http://localhost:1313/buildercgr_website/tags/python/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/tags/</loc>
+    <loc>http://localhost:1313/buildercgr_website/tags/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/tags/technology/</loc>
+    <loc>http://localhost:1313/buildercgr_website/tags/technology/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/tags/videogame/</loc>
+    <loc>http://localhost:1313/buildercgr_website/tags/videogame/</loc>
     <lastmod>2026-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/categories/</loc>
+    <loc>http://localhost:1313/buildercgr_website/categories/</loc>
   </url><url>
-    <loc>https://buildercgr.github.io/buildercgr_website/gallery/</loc>
+    <loc>http://localhost:1313/buildercgr_website/gallery/</loc>
   </url>
 </urlset>

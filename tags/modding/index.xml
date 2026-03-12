@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modding on Buildercgr</title>
-    <link>https://buildercgr.github.io/buildercgr_website/tags/modding/</link>
+    <link>http://localhost:1313/buildercgr_website/tags/modding/</link>
     <description>Recent content in Modding on Buildercgr</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://buildercgr.github.io/buildercgr_website/tags/modding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/buildercgr_website/tags/modding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digitech Mod</title>
-      <link>https://buildercgr.github.io/buildercgr_website/projects/digitech/</link>
+      <link>http://localhost:1313/buildercgr_website/projects/digitech/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://buildercgr.github.io/buildercgr_website/projects/digitech/</guid>
+      <guid>http://localhost:1313/buildercgr_website/projects/digitech/</guid>
       <description>&lt;p&gt;&lt;strong&gt;We&amp;rsquo;ve paused the Digitech project because we&amp;rsquo;re converting it to Java code. Thank you very much for trying Digitech, but we&amp;rsquo;ll be working on re-coding Digitech for a while to keep it more stable, funnier and with more features.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mcreator page: &lt;a href=&#34;https://mcreator.net/modification/110176/mobilecraft&#34;&gt;https://mcreator.net/modification/110176/mobilecraft&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Curseforge page: &lt;a href=&#34;https://www.curseforge.com/minecraft/mc-mods/digitech&#34;&gt;https://www.curseforge.com/minecraft/mc-mods/digitech&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Do you want mobile phones and computers in Minecraft?&lt;/p&gt;&#xA;&lt;p&gt;With Digitech, now you can enjoy both!&lt;/p&gt;&#xA;&lt;p&gt;This mod is still in beta, and there’s much more to come. But first, let’s take a look at the essential features:&lt;/p&gt;</description>
     </item>
   </channel>
