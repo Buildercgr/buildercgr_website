@@ -1,0 +1,50 @@
+:root {
+    --text-color: #222222;
+    --text-secondary-color: #555555;
+    --text-link-color: #000000;
+    --background-color: #FFFFFF;
+    --secondary-background-color: #FFF3E0;
+    --primary-color: #FF8C00;
+    --secondary-color: #FFA726;
+
+    --text-color-dark: #f5f5f5;
+    --text-secondary-color-dark: #cccccc;
+    --text-link-color-dark: #FFFFFF;
+    --background-color-dark: #000000;
+    --secondary-background-color-dark: #1a1a1a;
+    --primary-color-dark: #FFD54F;
+    --secondary-color-dark: #FFB300;
+}
+
+body {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+}
+
+html {
+    background-color: var(--background-color) !important;
+}
+
+body::-webkit-scrollbar {
+    height: 0px;
+    width: 8px;
+    background-color: var(--background-color);
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 1rem;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 1rem;
+    background: #b0b0b0;
+    outline: 1px solid var(--background-color);
+}
+
+#search-content::-webkit-scrollbar {
+    width: .5em;
+    height: .1em;
+    background-color: var(--background-color);
+}
